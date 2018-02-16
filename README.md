@@ -9,7 +9,8 @@ From the command line:
 python dpla_search.py penguins
 ```
 The program will automatically create a website showing the results of the search:
-[image](dpla_search.png)
+
+![image](https://github.com/mbabaian/dpla-search/blob/master/dpla_search.png)
 
 #### Changing Number of Items Returned
 By default, DPLA returns the first ten items in any search query. You can change the code in this program to return more or fewer than ten results by adding a second command line argument (see line 10 in ```dpla_search.py```). Then comment out line 13 and make line 15 active. Run the program from the command line:
