@@ -25,7 +25,7 @@ I created this program out of personal curiosity for exploring how Python can be
 #### Front end 
 HTML/CSS/Bootstrap
 #### Back end 
-Python 3.0
+Python 3
 
 ### License
 [MIT](https://opensource.org/licenses/MIT)
